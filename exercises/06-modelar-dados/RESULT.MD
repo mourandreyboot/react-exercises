@@ -1,13 +1,13 @@
 ﻿# RESULT.md — O que aprendi
 
 ## O que fiz
-<!-- Descreva, com suas próprias palavras, o que você fez neste exercício. -->
+criei um type com os status de viagem e depois um interface com as informações referentes à viagem
 
 ## Dificuldades encontradas
-<!-- Quais problemas ou erros apareceram durante o exercício? -->
+Acredito que nessa parte não tive
 
 ## O que aprendi
-<!-- O que você aprendeu com este exercício? -->
+usar um union com status de uma viagem e criar uma interface com as informacoes que uma viagem deve conter e os tipos que cada variável recebe
 
 ## 3 coisas que poderia ter feito para suprir as dificuldades
 1. 
@@ -15,4 +15,4 @@
 3. 
 
 ## Autoavaliação
-<!-- De 1 a 5, como você avalia seu desempenho neste exercício? Por quê? -->
+Avaliaria como 3 porque acho que fiz o correto, mas ainda não tenho a segurança de dizer se está tudo certo ou se falta complementar com algo. 
