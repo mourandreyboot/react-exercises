@@ -15,4 +15,4 @@ que não se deve mexer no terminal enquanto algo está rodando. Aprendi também 
 3. só mexer novamente depois que estivesse tudo concluído
 
 ## Autoavaliação
-<!-- De 1 a 5, como você avalia seu desempenho neste exercício? Por quê? -->
+4- consegui resolver o problema sem muita dificuldade, mas não consegui colocar novamente o botão de login. Vi o que deveria ser feito quando coloquei o o mouse em cima de LoginIcon, mas não soube onde criá-lo.
