@@ -1,7 +1,8 @@
 import Card from "./components/card"
 import Button from "./components/button"
 import { SolarProvider } from '@solar-icons/react'
-import { HomeIcon, LoginIcon } from '@solar-icons/react/linear'
+import { HomeIcon } from '@solar-icons/react/linear'
+import RegistryForm from "./components/RegistryForm"
 
 export default function App() {
   
@@ -29,7 +30,9 @@ export default function App() {
             <Button variant="normal">Click Here</Button>
           </div>
          </Card>
-         
+         <section className="min-h-screen bg-slate-50 py-12">
+            <RegistryForm />
+        </section>
       </main>
   )
 }
